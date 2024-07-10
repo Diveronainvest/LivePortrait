@@ -12,6 +12,7 @@ __pycache__/
 # Ipython notebook
 *.ipynb
 
-# Temporary files or benchmark resources
+# Temporary files or benchmark resources шщєщхзхзз
+
 animations/*
 tmp/*
